@@ -1,0 +1,18 @@
+{
+  "name": "BIPEC TratoPro 3410 — Gestão de Trato & Balança",
+  "short_name": "BIPEC TratoPro",
+  "description": "Sistema Offline-First de Carregamento, Mistura e Trato integrado ao visor Digi-Star 3410 BT.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
